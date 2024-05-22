@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,6,46,1) 35%, rgba(6,18,20,1) 100%);
+  font-family: "Nunito", sans-serif;
+}
 .privacy-policy {
-  font-family: 'Arial', sans-serif;
   color: #333;
   max-width: 800px;
   margin: 20px auto;
@@ -11,7 +17,7 @@
 }
 
 .privacy-policy h1 {
-  color: #4CAF50;
+  color: #5a189a;
   text-align: center;
   font-size: 2em;
   margin-bottom: 20px;
